@@ -1,8 +1,29 @@
-# Shopping website 
+# Shopping website
+
 ## Introduction
-This is a fashion shopping website
+
+## Table of contents
+
+- [Shopping website](#shopping-website)
+  - [Introduction](#introduction)
+  - [Table of contents](#table-of-contents)
+  - [Pages](#pages)
+    - [Home page](#home-page)
+      This is a fashion shopping website
+
 ## Pages
+
 - Home Page
-- Products
-- Products Details
-- Cart
+- about
+- cart
+- deals
+- products
+- product details
+
+### Home page
+
+- Navigation Bar
+- Slider
+- Cartegories sidebar
+- Featured Products
+- Footer
